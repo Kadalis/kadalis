@@ -1,5 +1,10 @@
+#### Other languages:
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/kadalis/kadalis/blob/master/README.md)
+[![ru-ru](https://img.shields.io/badge/lang-ru--ru-green.svg)](https://github.com/kadalis/kadalis/blob/master/README.ru-ru.md)
+
+
 ### Hi there 👋, Im Kadalis
-and my real name is not that thing I want to leak to public
+and my real name is not that thing I want to leak in public
 
 - 🔭 I’m currently working on mifare cards things (exploiting transport cards, corporative mifare-based passes, etc)
 - 🌱 I’m currently learning more pentest
@@ -15,7 +20,6 @@ and my real name is not that thing I want to leak to public
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kadalis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadalis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+---
+[![](https://visitcount.itsvg.in/api?id=kadalis&icon=5&color=8)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

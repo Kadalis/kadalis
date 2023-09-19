@@ -6,7 +6,7 @@
 ### Hi there 👋, Im Kadalis
 and my real name is not that thing I want to leak in public
 
-- 🔭 I’m currently working on mifare cards things (exploiting transport cards, corporative mifare-based passes, etc)
+- 🔭 I’m currently working on mifare cards things using specific NXP chips (exploiting transport cards, corporative mifare-based passes, etc)
 - 🌱 I’m currently learning more pentest
 - ⌛ I'm want to learn C++, reverse engineering and binary exploitation in future
 - 👯 I’m want to contribute to Kali NetHunter <!-- I'm assuming that this field is for project i want to help others with -->

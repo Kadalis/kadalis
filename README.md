@@ -1,6 +1,6 @@
 #### Other languages:
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/kadalis/kadalis/blob/master/README.md)
-[![ru-ru](https://img.shields.io/badge/lang-ru--ru-green.svg)](https://github.com/kadalis/kadalis/blob/master/README.ru-ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/kadalis/kadalis/blob/main/README.md)
+[![ru-ru](https://img.shields.io/badge/lang-ru--ru-green.svg)](https://github.com/kadalis/kadalis/blob/main/README.ru-ru.md)
 
 
 ### Hi there 👋, Im Kadalis
@@ -9,8 +9,8 @@ and my real name is not that thing I want to leak in public
 - 🔭 I’m currently working on mifare cards things (exploiting transport cards, corporative mifare-based passes, etc)
 - 🌱 I’m currently learning more pentest
 - ⌛ I'm want to learn C++, reverse engineering and binary exploitation in future
-- 👯 I’m looking to collaborate on Kali NetHunter <!-- I'm assuming that this field is for project i want to help others with -->
-- 💬 Ask me about C and Corporative networks pentest <!-- This for things Im have some experience with, i guess? -->
+- 👯 I’m want to contribute to Kali NetHunter <!-- I'm assuming that this field is for project i want to help others with -->
+- 💬 Ask me about C and Corporative networks pentest, Im have some experience with it <!-- This for things Im have some experience with, i guess? -->
 - ⚡ Joke: function "to_lend" returns void.
 
 ### 💻 Tech Stack:
